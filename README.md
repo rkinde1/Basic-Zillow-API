@@ -16,6 +16,6 @@ sqft, bed, and bath are required but can be changed to calculate zestimate
 
 Insert your usd value after
 
-This API is not connected to a database so the variable, data, will be used as a temporary placeholder.
+This API is not connected to a database so the data will be used as a temporary placeholder.
 
 Thank you for reading me!
